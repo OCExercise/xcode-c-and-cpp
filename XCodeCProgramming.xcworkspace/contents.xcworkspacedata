@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:HelloWorldCPP/HelloWorldCPP.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HelloWorldC/HelloWorldC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CommandLineC/CommandLineC.xcodeproj">
+   </FileRef>
+</Workspace>
